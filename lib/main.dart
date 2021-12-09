@@ -1,6 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_svg/flutter_svg.dart';
-import 'package:onboarding/widgets/animated_indicator.dart';
 import 'package:onboarding/widgets/onboard.dart';
 
 const kTitleStyle = TextStyle(
